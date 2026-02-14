@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" role="img" aria-label="Logo structure de données (transparent)">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2dd4bf"/>
+      <stop offset="1" stop-color="#3b82f6"/>
+    </linearGradient>
+    <filter id="softShadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="10" stdDeviation="10" flood-color="#0b1220" flood-opacity="0.22"/>
+    </filter>
+    <style>
+      .node { fill:#0b1220; stroke:url(#g); stroke-width:3; rx:18; }
+      .chip { fill:#0f172a; stroke:#334155; stroke-width:2; rx:14; }
+      .line { stroke:#94a3b8; stroke-width:3; fill:none; stroke-linecap:round; }
+      .dot { fill:#94a3b8; }
+    </style>
+  </defs>
+
+  <!-- Nodes (more spaced) -->
+  <rect class="node" x="34"  y="152" width="86" height="86" filter="url(#softShadow)"/>
+  <rect class="node" x="137" y="56"  width="86" height="86" filter="url(#softShadow)"/>
+  <rect class="node" x="137" y="248" width="86" height="86" filter="url(#softShadow)"/>
+  <rect class="node" x="240" y="152" width="86" height="86" filter="url(#softShadow)"/>
+
+  <!-- Inner chips -->
+  <rect class="chip" x="54"  y="180" width="46" height="30"/>
+  <rect class="chip" x="157" y="84"  width="46" height="30"/>
+  <rect class="chip" x="157" y="276" width="46" height="30"/>
+  <rect class="chip" x="260" y="180" width="46" height="30"/>
+
+  <!-- Links (same topology: left -> (top & bottom) -> right) -->
+  <path class="line" d="M120 195 C136 195 128 120 155 103 C175 90 185 90 203 103"/>
+  <path class="line" d="M120 195 C136 195 128 270 155 287 C175 300 185 300 203 287"/>
+  <path class="line" d="M223 103 C248 120 244 170 240 195"/>
+  <path class="line" d="M223 287 C248 270 244 220 240 195"/>
+
+  <!-- Dots -->
+  <circle class="dot" cx="120" cy="195" r="5"/>
+  <circle class="dot" cx="223" cy="103" r="5"/>
+  <circle class="dot" cx="223" cy="287" r="5"/>
+  <circle class="dot" cx="240" cy="195" r="5"/>
+
+  <!-- Brackets accent -->
+  <path d="M78 78 q-18 12 0 24 q-18 12 0 24" fill="none" stroke="url(#g)" stroke-width="6" stroke-linecap="round" opacity="0.95"/>
+  <path d="M282 78 q18 12 0 24 q18 12 0 24" fill="none" stroke="url(#g)" stroke-width="6" stroke-linecap="round" opacity="0.95"/>
+</svg>
