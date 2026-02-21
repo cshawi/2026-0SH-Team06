@@ -2,15 +2,22 @@ using UnityEngine;
 
 public class CameraScrolling : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    private Transform player;
+    public bool doYAxis = false;
+    private void Awake()
     {
-        
+        player = GameObject.FindGameObjectWithTag("Player").transform;
     }
 
     // Update is called once per frame
-    void Update()
+    private void Update()
     {
-        
+        Vector3 cameraPosition = transform.position;
+        cameraPosition.x = player.position.x;
+        if (doYAxis)
+        {
+            cameraPosition.y = player.position.y;
+        }
+        transform.position = cameraPosition;
     }
 }
