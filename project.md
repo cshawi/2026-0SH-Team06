@@ -1,7 +1,6 @@
 
 <p align="center"><img src="./_bin/logo.svg" alt="drawing" width="100"/></p>
 <h4 align="center">0SH - Gestion de projet (2026)</h4>
-<<<<<<< HEAD
 
 # 1. Calendrier du projet
 | Date | Matière en classe | Projet  |
