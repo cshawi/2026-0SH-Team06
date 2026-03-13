@@ -83,4 +83,3 @@ Gallus Gallus Monogatari : La légende du poulet samouraï est un jeu 2D où le 
 
 
 <hr><p align="Center"><img src="./_bin/end.png" alt="drawing" width="100"/></p>
->>>>>>> develop
