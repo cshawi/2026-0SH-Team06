@@ -1,20 +1,21 @@
 <p align="center"><img src="./_bin/logo.svg" alt="drawing" width="100"/></p>
 <h4 align="center">0SH - Gestion de projet (2026)</h4>
 
-# 1. Calendrier du projet
-| Date | Matière en classe | Projet  |
-|----------:|:---------:|:---------:|
-| 02-20         | Création d'un projet GitHub | Planification |
-| 02-27         | Documentation d'un Bug    | Livrable #1 |
-| 03-06         | Relâche    |  |
-| 03-13         |     |  |
-| 03-20         |     | |
-| 03-27         |     | |
-| 04-03         | Congé de Pâques    |  |
-| 04-10         |     | |
-| 04-17         |     | |
-| 04-24         |     | |
-| 05-01         | Présentation des projets en classe (Épreuve terminale)    | Livrable #4 |
+# Calendrier du projet
+
+| Date  | Matière en classe | Projet |
+|:------|:------------------|:-------|
+| 02-20 | Création d'un projet GitHub | Planification |
+| 02-27 | Documentation d'un Bug | Livrable #1 |
+| 03-06 | Relâche |  |
+| 03-13 | Gestion des branches / Suivi | Livrable #2 |
+| 03-20 | Avancement gameplay | Développement |
+| 03-27 | Revue de code / Tests | Développement |
+| 04-03 | Congé de Pâques |  |
+| 04-10 | Intégration complète | Livrable #3 |
+| 04-17 | Stabilisation / Corrections | Améliorations |
+| 04-24 | Polissage final | Préparation |
+| 05-01 | Présentation des projets (Épreuve terminale) | Livrable #4 |
 
 
 # 2. Mise en situation (client)
