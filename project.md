@@ -143,6 +143,5 @@ Le but est de récupérer des objets (œufs, autres cuccos, artefacts) et de les
 
 ---
 
->>>>>>> develop
 <hr>
 <p align="center"><img src="./_bin/end.png" alt="drawing" width="150"/></p>
