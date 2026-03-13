@@ -4,7 +4,7 @@
 <h1 align="center">CuccoAttack</h2>
 
 ### Description du produit final
-Écrivez ici une courte description de 2 ou 3 phrases de votre projet.#
+Gallus Gallus Monogatari : La légende du poulet samouraï est un jeu 2D où le joueur incarne un poulet samouraï courageux. Il doit protéger son clan contre des ennemis et défendre son village. Le joueur peut se déplacer, sauter et combattre dans différents niveaux.#
 
 ### Processus d'initialisation
 1. S'assurer d'avoir la **dernière version** d'Unity d'installé (Unity 3.16.2).
