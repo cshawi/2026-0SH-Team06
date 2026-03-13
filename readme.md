@@ -1,10 +1,10 @@
 <p align="Center"><img src="./_bin/logo.svg" alt="drawing" width="100"/></p>
 <h4 align="Center">0SH - Gestion de projet (2026)</h4>
 
-<h1 align="center">CuccoAttack</h2>
+<h1 align="center">Gallus Gallus Monogatari</h2>
 
 ### Description du produit final
-Gallus Gallus Monogatari : La légende du poulet samouraï est un jeu 2D où le joueur incarne un poulet samouraï courageux. Il doit protéger son clan contre des ennemis et défendre son village. Le joueur peut se déplacer, sauter et combattre dans différents niveaux.
+Gallus Gallus Monogatari :Incarnez un poulet samouraï astronaute redoutable et protégez votre clan et vos poussins contre des ennemis menaçants dans une aventure épique pour sauver votre village.
 
 ### Processus d'initialisation
 1. S'assurer d'avoir la **dernière version** d'Unity d'installé (Unity 3.16.2).
