@@ -7,6 +7,7 @@ public class PlayerMovement : MonoBehaviour
 
     private Rigidbody2D rb;
     private Vector2 velocity;
+    [SerializeField] private Animator anim;
     private float inputAxis;
 
     public float lastInput;
@@ -51,6 +52,14 @@ public class PlayerMovement : MonoBehaviour
         } else if (velocity.x < 0f)
         {
             transform.eulerAngles = new Vector3(0f, 180f, 0f);
+        }
+
+        if (inputAxis != 0)
+        {
+            anim.SetBool("isRunning", true);
+        } else
+        {
+            anim.SetBool("isRunning", false);
         }
 
 

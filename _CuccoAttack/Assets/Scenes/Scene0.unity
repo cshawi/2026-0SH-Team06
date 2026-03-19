@@ -667,6 +667,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 74baa8bab1a0ca140b429ffbce0e9d0f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerMovement
+  anim: {fileID: 1929972630}
   lastInput: 0
   moveSpeed: 20
   maxJumpHeight: 5
