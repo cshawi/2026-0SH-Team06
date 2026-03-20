@@ -82,11 +82,11 @@ Incarnez un poulet samouraï, astronaute à temps partiel, à la fois redoutable
 | 05-01 | Présentation des projets (Épreuve terminale) | Livrable #4 |
 
 
-## 📍 Roadmap du projet — Gallus Gallus Monogatari
+##  Roadmap du projet — Gallus Gallus Monogatari
 
 ---
 
-### 🚀 Phase 1 — Initialisation (Livrable #1)
+###  Phase 1 — Initialisation (Livrable #1)
 - [x] Création du projet Unity
 - [x] Configuration GitHub
 - [x] Structure du projet (Assets, Scripts, Scenes)
@@ -94,14 +94,14 @@ Incarnez un poulet samouraï, astronaute à temps partiel, à la fois redoutable
 
 ---
 
-### 📄 Phase 2 — Documentation (Livrable #1)
+###  Phase 2 — Documentation (Livrable #1)
 - [x] Identification d’un bug
 - [x] Documentation mise à jour
 - [x] Correctif appliqué
 
 ---
 
-### 🎮 Phase 3 — Prototype jouable (Livrable #2)
+###  Phase 3 — Prototype jouable (Livrable #2)
 - [x] Déplacement gauche/droite (#12)
 - [x] Saut fonctionnel (#13)
 - [x] Caméra qui suit (#14)
@@ -110,7 +110,7 @@ Incarnez un poulet samouraï, astronaute à temps partiel, à la fois redoutable
 
 ---
 
-### ⚔️ Phase 4 — Gameplay (Livrable #3)
+###  Phase 4 — Gameplay (Livrable #3)
 - [ ] Système d’attaque (#17)
 - [ ] Ennemis (IA simple) (#18)
 - [ ] Système de vie (#19)
@@ -119,7 +119,7 @@ Incarnez un poulet samouraï, astronaute à temps partiel, à la fois redoutable
 
 ---
 
-### 🏁 Phase 5 — Version finale (Livrable #4)
+###  Phase 5 — Version finale (Livrable #4)
 - [ ] Polissage du gameplay (#22)
 - [ ] Correction des bugs (#23)
 - [ ] Optimisation des performances (#24)
@@ -127,9 +127,9 @@ Incarnez un poulet samouraï, astronaute à temps partiel, à la fois redoutable
 
 ---
 
-## 📊 Suivi du projet
-- ✅ Phases complétées : 3 / 5
-- 🔄 En cours : Phase 4
-- 🎯 Prochaine étape : Implémentation du gameplay
+##  Suivi du projet
+- [x] Phases complétées : 3 / 5
+- [ ] En cours : Phase 4
+-  Prochaine étape : Implémentation du gameplay
 
 <hr><p align="Center"><img src="./_bin/end.png" alt="drawing" width="100"/></p>
