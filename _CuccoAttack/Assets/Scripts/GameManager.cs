@@ -32,7 +32,7 @@ public class GameManager : MonoBehaviour
     private void NewGame()
     {
         lives = 3;
-        LoadLevel();
+        LoadLevel(1);
     }
 
     private void LoadLevel(int stage)
@@ -41,6 +41,15 @@ public class GameManager : MonoBehaviour
         this.stage = stage;
 
         SceneManager.LoadScene("stage");
+
+        switch (stage)
+        {
+            case 1: SceneManager.LoadScene("Village"); break;
+            case 2: SceneManager.LoadScene("Chateau"); break;
+            case 3: SceneManager.LoadScene("Lune"); break;
+            default: SceneManager.LoadScene("TestingRoom"); break;
+        }
+
     }
 
     public void NextLevel()
