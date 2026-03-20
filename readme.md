@@ -72,9 +72,9 @@ Incarnez un poulet samouraï, astronaute à temps partiel, à la fois redoutable
 | 02-20 | Création d'un projet GitHub | Planification |
 | 02-27 | Documentation d'un Bug | Livrable #1 |
 | 03-06 | Relâche |  |
-| 03-13 | Gestion des branches / Suivi | Livrable #2 |
+| 03-13 | Gestion des branches / Suivi |  |
 | 03-20 | Avancement gameplay | Développement |
-| 03-27 | Revue de code / Tests | Développement |
+| 03-27 | Revue de code / Tests | Livrable #2 |
 | 04-03 | Congé de Pâques |  |
 | 04-10 | Intégration complète | Livrable #3 |
 | 04-17 | Stabilisation / Corrections | Améliorations |
