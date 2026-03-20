@@ -81,5 +81,57 @@ Incarnez un poulet samouraï, astronaute à temps partiel, à la fois redoutable
 | 04-24 | Polissage final | Préparation |
 | 05-01 | Présentation des projets (Épreuve terminale) | Livrable #4 |
 
+## 🚀 Roadmap du projet — Gallus Gallus Monogatari
+
+### 🟡 Phase 1 — Initialisation
+- [x] Création du projet Unity
+- [x] Configuration GitHub
+- [x] Structure du projet (Assets, Scripts, Scenes)
+- [x] Description du jeu
+
+---
+
+### 🐛 Phase 2 — Documentation (Livrable #1)
+- [x] Identification d’un bug
+- [x] Description détaillée
+- [x] Capture d’écran
+- [x] Correctif appliqué
+- [x] Documentation mise à jour
+
+---
+
+### 🎮 Phase 3 — Prototype jouable (Livrable #2)
+- [x] Déplacement gauche/droite
+- [x] Saut fonctionnel
+- [x] Caméra qui suit
+- [x] Niveau simple
+- [x] Scripts organisés
+
+---
+
+### ⚔️ Phase 4 — Gameplay (Livrable #3)
+- [ ] Système d’attaque
+- [ ] Ennemis (IA simple)
+- [ ] Système de vie
+- [ ] Collecte d’objets
+- [ ] HUD (interface joueur)
+
+---
+
+### 🏁 Phase 5 — Version finale (Livrable #4)
+- [ ] Objectif de niveau
+- [ ] Écran victoire
+- [ ] Écran Game Over
+- [ ] Sons (musique + effets)
+- [ ] Optimisation
+- [ ] Tests finaux
+- [ ] Présentation
+
+---
+
+### 📍 Statut actuel
+👉 En cours : Gameplay (Livrable #3)
+👉 Prochaine étape : Ajouter les ennemis et le système de vie
+
 
 <hr><p align="Center"><img src="./_bin/end.png" alt="drawing" width="100"/></p>
