@@ -100,7 +100,7 @@ Incarnez un poulet samouraï, astronaute à temps partiel, à la fois redoutable
 
 ---
 
-### 🎮 Phase 3 — Prototype jouable (Livrable #2)
+###  Phase 3 — Prototype jouable (Livrable #2)
 - [x] Déplacement gauche/droite
 - [x] Saut fonctionnel
 - [x] Caméra qui suit
