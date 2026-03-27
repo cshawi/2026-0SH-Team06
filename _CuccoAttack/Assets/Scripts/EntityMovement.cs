@@ -4,7 +4,7 @@ public class EntityMovement : MonoBehaviour
 {
     private new Rigidbody2D rigidbody;
     private Vector2 direction = Vector2.left;
-    public float speed = 1f;
+    public float speed = 3f;
     public Vector2 velocity;
 
     private void Awake()
@@ -31,7 +31,7 @@ public class EntityMovement : MonoBehaviour
     }
     private void FixedUpdate()
     {
-        velocity.x = direction.y * speed;
+        velocity.x = direction.x * speed;
         velocity.y += Physics2D.gravity.y * Time.fixedDeltaTime;
 
         rigidbody.MovePosition(rigidbody.position + velocity * Time.fixedDeltaTime);
