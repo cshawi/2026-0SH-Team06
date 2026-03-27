@@ -30,7 +30,7 @@ Incarnez un poulet samouraï, astronaute à temps partiel, à la fois redoutable
 ---
 
 ## Livrable #2 — Prototype jouable
-**Date : 03-13**
+**Date : 03-27**
 
 - Déplacement complet (gauche/droite)
 - Saut fonctionnel
