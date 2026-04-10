@@ -42,7 +42,7 @@ Incarnez un poulet samouraï, astronaute à temps partiel, à la fois redoutable
 ---
 
 ## Livrable #3 — Gameplay fonctionnel
-**Date : 04-10**
+**Date : 04-17**
 
 - Attaque fonctionnelle
 - Ennemis avec comportement de base
