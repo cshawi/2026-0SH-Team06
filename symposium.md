@@ -17,7 +17,6 @@ Une table vous sera installée avec accès à une prise électrique. Vous devez 
 2. Ordinateur portable + son fil
 3. Carnet + crayon (Milanne dessinerait peut-être des petits trucs en lien avec le jeu à donner)
 4. Description du projet imprimée + Nom du jeu
-5. *Haut parleur si besoin, à tester
 
 ### Ce que nous aurons besoin provenant de l'école :
 
@@ -26,6 +25,9 @@ Une table vous sera installée avec accès à une prise électrique. Vous devez 
 3. Deux fils d'écran
 4. Deux fils HDMI/HDMI
 5. Accès Wi-Fi
+6. Écouteurs pour montrer musique
+
+*Tester bluetooth
 
 ## Heure d'arrivée
 
