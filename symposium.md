@@ -26,6 +26,7 @@ Une table vous sera installée avec accès à une prise électrique. Vous devez 
 3. Deux écrans pour présenter le jeu et montrer les dessins
 4. Deux fils d'écran
 5. Deux fils HDMI/HDMI
+6. Accès Wi-Fi
 
 ## Heure d'arrivée
 
