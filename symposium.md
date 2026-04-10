@@ -22,10 +22,10 @@ Une table vous sera installée avec accès à une prise électrique. Vous devez 
 ### Ce que nous aurons besoin provenant de l'école :
 
 1. Multiprise à 6 trous
-3. Deux écrans pour présenter le jeu et montrer les dessins
-4. Deux fils d'écran
-5. Deux fils HDMI/HDMI
-6. Accès Wi-Fi
+2. Deux écrans pour présenter le jeu et montrer les dessins
+3. Deux fils d'écran
+4. Deux fils HDMI/HDMI
+5. Accès Wi-Fi
 
 ## Heure d'arrivée
 
