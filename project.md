@@ -30,5 +30,72 @@ Programmé dans Unity, le personnage principal peut courir, sauter et combattre,
 
 Unity est un moteur de jeu gratuit et facilement accessible avec des ressources qui le sont tout autant. Le jeu sera conçu dans l'environnement de développement de ce logiciel. Plusieurs applications gratuites sont disponibles pour faire des textures, comme ibisPaint X. Pour la musique, il existe l'essai gratuit de flStudio et garageBand. FamiTone pourrait être utilisé pour créer de la musique 8 bit authentique.
 <hr>
+
+# Livrables
+
+## Livrable #1 — Documentation d’un bug
+**Date : 02-27**
+
+- Identification d’un bug réel dans le projet
+- Description complète (étapes de reproduction)
+- Résultat attendu vs résultat obtenu
+- Capture d’écran
+- Correctif appliqué (commit Git documenté)
+- Mise à jour du README / project.md
+
+---
+
+## Livrable #2 — Prototype jouable
+**Date : 03-27**
+
+- Déplacement complet (gauche/droite)
+- Saut fonctionnel
+- Caméra qui suit le joueur
+- Niveau simple jouable
+- Code structuré (scripts organisés)
+- Dépôt GitHub à jour
+
+---
+
+## Livrable #3 — Gameplay fonctionnel
+**Date : 04-17**
+
+- Attaque fonctionnelle
+- Ennemis avec comportement de base
+- Système de vie
+- Collecte d’objets
+- HUD minimal (vie + objets)
+- Documentation mise à jour
+
+---
+
+## Livrable #4 — Version finale + Présentation
+**Date : 05-01**
+
+- Version complète jouable
+- Objectif de niveau fonctionnel
+- Écran victoire / game over
+- Audio (musique + effets sonores)
+- Code propre et organisé
+- Présentation en classe (démo + explication technique)
+
+---
+
+# Calendrier du projet
+
+| Date  | Matière en classe | Projet |
+|:------|:------------------|:-------|
+| 02-20 | Création d'un projet GitHub | Planification |
+| 02-27 | Documentation d'un Bug | Livrable #1 |
+| 03-06 | Relâche |  |
+| 03-13 | Gestion des branches / Suivi |  |
+| 03-20 | Avancement gameplay | Développement |
+| 03-27 | Revue de code / Tests | Livrable #2 |
+| 04-03 | Congé de Pâques |  |
+| 04-10 | Intégration complète | Livrable #3 |
+| 04-17 | Stabilisation / Corrections | Améliorations |
+| 04-24 | Polissage final | Préparation |
+| 05-01 | Présentation des projets (Épreuve terminale) | Livrable #4 |
+
 <p align="center"><img src="./_bin/end.png" alt="drawing" width="150"/></p>
 
